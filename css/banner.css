@@ -114,7 +114,8 @@
 }
 .row{
     margin: 40px;
-    padding: 15px;}
+    padding: 15px;
+    line-height:initial;}
 
 .img{
     height: 100vh;
