@@ -205,7 +205,7 @@ body {
 }
 .title{
     text-align: center;
-  
+    margin-top: 40px; 
 }
 .Bg{
     background-color: rgba(179, 243, 218, 0.514);
