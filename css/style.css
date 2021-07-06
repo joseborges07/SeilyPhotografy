@@ -5,15 +5,9 @@
 
 body {
   font-family: 'Pattaya', sans-serif; }
-  
-  .navbar-brand{
-    font-size: 2rem;
-  }
 
 .seily_navbar {
-
-  background-color: rgba(255, 255, 255, 0.5) !important; 
-}
+  background-color: rgba(255, 255, 255, 0.5) !important; }
 
 .seily_navbar div, .seily_navbar ul {
   background-color: transparent; }
@@ -38,7 +32,12 @@ body {
 
 .col-md-4 {
   margin: 5px;
-  padding: 25px; }
+  padding: 5%; }
+
+.Galeria {
+  font-size: 3rem;
+  text-align: center;
+  padding: 10%; }
 
 .col-md-5 {
   margin: 5px;
@@ -46,7 +45,11 @@ body {
 
 .tex-center {
   text-align: center;
-  padding: 20px; }
+  padding: 5%; }
+
+.claseOpc {
+  text-align: center;
+  padding: 3%; }
 
 .Galery img:hover {
   border: 5px solid white; }
@@ -76,8 +79,7 @@ a {
 
 .form-group i {
   font-size: 1.8rem;
-  padding: 01.5rem;
-  color: #fff; }
+  padding: 01.5rem; }
 
 .form-group:hover .fa-instagram {
   color: #c319f7;

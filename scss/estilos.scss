@@ -36,7 +36,11 @@ body{
 
 .col-md-4{
     margin: 5px;
-    padding: 25px;
+    padding: 5%;
+}
+.Galeria{
+    text-align: center;
+    padding:10%;
 }
 .col-md-5{
     margin: 5px;
@@ -44,7 +48,11 @@ body{
 }
 .tex-center{
     text-align: center;
-    padding: 20px;
+    padding: 5%;
+}
+.claseOpc{
+    text-align: center;
+    padding: 3%;
 }
 .Galery img:hover{
     border: 5px solid white;
@@ -83,7 +91,7 @@ a{
         padding: 01.5rem;
        
     }
-   
+    
    &:hover .fa-instagram{
        color:rgb(195, 25, 247);
        transition-timing-function: ease-in-out;

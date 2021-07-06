@@ -133,6 +133,7 @@
     color: #fff;
     
 }
+
 .Copyright{
     width: 100%;
     margin-bottom: 20px;
@@ -150,7 +151,7 @@
     
 }
 .Opacy{
-    opacity: 0.8;
+    opacity: 0.9;
     font-size: 20px;
 }
 .text-center{
@@ -159,6 +160,10 @@
 }
 .d-flex{
     color: white;
+    background-color: black;
+    display: flex!important;
+    opacity: 0.7;
+    border-radius: 10%
 }
 body {
 	line-height: 1;
